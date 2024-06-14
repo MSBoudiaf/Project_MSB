@@ -1,0 +1,8 @@
+# requirements
+
+customtkinter 5.2.2
+sqlite3
+getpass
+tkinter
+sys
+os
