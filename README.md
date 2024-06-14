@@ -14,5 +14,5 @@ Afficher les détails du compte : pour vérifier les détails d'un compte, il fa
 
 # Utilisation
 
-Dans le dossier src, il y a deux scripts __main__ (un pour le terminal et un pour l'interface graphique). Le programme va demander à l'utilisateur de choisir entre afficher l'application en mode terminal ou en GUI.
+Dans le dossier src, il y a deux scripts __main__ (un pour le terminal et un pour l'interface graphique). Les deux type de programme 'Main'  vont demander à l'utilisateur de choisir entre afficher l'application en mode terminal ou en GUI.
 
